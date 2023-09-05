@@ -18,5 +18,7 @@ Array:
 1. Given an integer array nums, find the subarray with the largest sum, and return its sum.- Kadane's algo
 2. Trapping Rain Water
 3.
+    Binary Search:
+1. Find First and Last Position of Element in Sorted Array
 
 
