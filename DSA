@@ -1,4 +1,22 @@
 graph:
  1. BFS & DFS traversal with & without disconnected components
  2. above traversal with matrix as graph
- 3. 
+ 3. Topological sort using BFS and DFS both way
+ 4. Cycle Detection in Directed Graph
+
+
+
+
+
+Greedy:
+1. Shop Candy Problem
+2. Max Meetings in One Room
+
+
+
+Array:
+1. Given an integer array nums, find the subarray with the largest sum, and return its sum.- Kadane's algo
+2. Trapping Rain Water
+3.
+
+
